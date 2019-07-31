@@ -1,6 +1,6 @@
-# Apartments-search-django-web-app
+# Apartments search django web application
 
-Full stack web application for apartment search 
+Full stack web application for apartment search using Django
 
 ## Web app features
 
