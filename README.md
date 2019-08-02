@@ -1,6 +1,6 @@
-# Apartments search django web application
+# Apartments/Houses Renting Web Application
 
-Full stack web application for apartment search using 'Django' 'HTML' 'CSS' 'JavaScript' 
+Full stack web application for apartment/houses search  
 
 > Django==2.2.3     
 > Pillow==5.2.0      
@@ -56,7 +56,7 @@ Full stack web application for apartment search using 'Django' 'HTML' 'CSS' 'Jav
 - Realtor – Name & Image     
 - Main image and 5 other images   
 
-## Backend
+### Backend
 
 > Database 'Postgres'      
 > Database Name:     
