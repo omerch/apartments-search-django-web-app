@@ -56,9 +56,14 @@ Full stack web application for apartment/houses search
 - Realtor – Name & Image     
 - Main image and 5 other images   
 
-### Backend
+### BACKEND
 
 > Database 'Postgres'      
 > Database Name:     
 
 ## Screenshots
+- HOME    
+
+
+
+
