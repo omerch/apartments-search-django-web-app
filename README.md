@@ -60,3 +60,5 @@ Full stack web application for apartment/houses search
 
 > Database 'Postgres'      
 > Database Name:     
+
+## Screenshots
