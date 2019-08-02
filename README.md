@@ -26,7 +26,7 @@ Full stack web application for apartment search using 'Django' 'HTML' 'CSS' 'Jav
 - Mobile Friendly
 - Social media icons & contact information
 
-### Funtionality specification
+### FUNCTIONALITY SPECIFICATION
 
 - Manage listings, realtors, contact inquiries and website users via admin
 - Role based users (staff and non-staff)
@@ -40,10 +40,23 @@ Full stack web application for apartment search using 'Django' 'HTML' 'CSS' 'Jav
 - Listing page should have a form to submit inquiry for that property listing
 - Form info should go to database and notify realtor(s) with an email
 - Frontend register/login to track inquiries
+- Both unregistered and registered users can submit form. If registered, can only submit one per listing
 
- Both unregistered and registered users can submit form. If registered, can only submit one per listing
-- 
+### LISTING PAGE FIELDS
 
-## Listing page fields
+- Title          
+- Address, city, state, zip    
+- Price    
+- Bedrooms   
+- Bathrooms    
+- Square Feet    
+- Lot Size   
+- Garage    
+- Listing Date    
+- Realtor – Name & Image     
+- Main image and 5 other images   
 
 ## Backend
+
+> Database 'Postgres'      
+> Database Name:     
