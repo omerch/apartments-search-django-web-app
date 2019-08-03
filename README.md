@@ -72,12 +72,12 @@ Full stack web application for apartment/houses search
 ![](screenshots/r2listing.png)     
 
 
-- LOGIN     
+- REGISTER     
 
 ![](screenshots/r3register.png)    
 
 
-- REGISTER   
+- LOGIN   
 
 ![](screenshots/r4login.png)      
 
