@@ -62,10 +62,32 @@ Full stack web application for apartment/houses search
 > Database Name:     
 
 ## Screenshots
-- HOME   
-![](screenshots/r1home.png)
+- HOME 
 
-- 
+![](screenshots/r1home.png)     
+
+
+- LISTING     
+
+![](screenshots/r2listing.png)     
+
+
+- LOGIN     
+
+![](screenshots/r3register.png)    
+
+
+- REGISTER   
+
+![](screenshots/r4login.png)      
+
+
+- ADMIN  
+
+![](screenshots/r5admin.png)
+
+
+
 
 
 
