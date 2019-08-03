@@ -62,7 +62,10 @@ Full stack web application for apartment/houses search
 > Database Name:     
 
 ## Screenshots
-- HOME    
+- HOME   
+![](screenshots/r1home.png)
+
+- 
 
 
 
