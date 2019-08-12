@@ -89,11 +89,11 @@ Full stack web application for apartment/houses search
 
 ![](screenshots/r5admin.png)
 
-- Listing API
+- LISTING API
 
 ![](screenshots/r6listingapi.png)
 
- Listing RUD API
+ - LISTING RUD API
 
 ![](screenshots/listingrudapi.png)
 
