@@ -15,6 +15,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
+from django.conf.urls import url
 from django.conf import settings
 from django.conf.urls.static import static
 
@@ -23,7 +24,8 @@ urlpatterns = [
     path('listings/', include('listings.urls')),
     path('accounts/', include('accounts.urls')),
     path('contacts/', include('contacts.urls')),
-    path('admin/', admin.site.urls),
-]
+    path('api-auth/', include('rest_framework.urls')),
+    url(r'^api/listings/', include('listings.api.urls')),
+    path('admin/', admin.site.urls),]
 
 urlpatterns = urlpatterns + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

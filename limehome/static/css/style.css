@@ -8,14 +8,14 @@ img {
   width: 80px; }
 
 .navbar {
-  opacity: 0.9;
+  opacity: 0.5;
   text-transform: uppercase; }
 
 .social a {
   margin-right: 0.4rem; }
 
 #showcase {
-  background: url(../img/building.jpg) no-repeat top center fixed/cover;
+  background: url(../img/showcase.jpg) no-repeat top center fixed/cover;
   position: relative;
   min-height: 650px;
   color: #fff;
