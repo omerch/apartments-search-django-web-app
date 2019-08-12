@@ -2,10 +2,13 @@
 
 Full stack web application for apartment/houses search  
 
-> Django==2.2.3     
+> Django==2.2.3  
+> Django Rest Framework==3.10.2
 > Pillow==5.2.0      
 > psycopg2==2.7.5     
 > sycopg2-binary==2.7.5    
+> markdown==3.1.1
+> djangofilter==2.2.0
 
 ## Web App Features
 ### FRONTEND PAGES
@@ -85,6 +88,11 @@ Full stack web application for apartment/houses search
 - ADMIN  
 
 ![](screenshots/r5admin.png)
+
+- Listing API
+
+
+![](screenshots/r6listingapi.png)
 
 
 
